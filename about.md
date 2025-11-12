@@ -1,6 +1,7 @@
 ---
-layout default
-title acerca de 
+layout: default
+title: acerca de
+permalink: /acercade/
 ---
 
 soy un alumno informatica que esta creando
